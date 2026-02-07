@@ -32,14 +32,17 @@ Durante el Sprint 1 se desarrollaron las siguientes historias de usuario:
 
 ## Estructura del proyecto
 src/
-├─ assets/
-├─ components/
-├─ data/
-├─ App.jsx
-└─ main.jsx
+
+assets/
+
+components/
+
+data/
+App.jsx
+main.jsx
 
 docs/
-└─ sprint-planning-sprint-1.md
+sprint-planning-sprint-1.md
 
 
 ## Ejecución del proyecto
